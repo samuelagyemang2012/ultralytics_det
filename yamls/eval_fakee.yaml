@@ -1,0 +1,17 @@
+path: C:/Users/Administrator/Desktop/datasets/bdd/bdd.v1i.mt-yolov6_fake
+train: images/train
+val:  images/valid
+test: images/test
+
+#nc: 10
+names:
+  0: 'bike'
+  1: 'bus'
+  2: 'car'
+  3: 'motor'
+  4: 'person'
+  5: 'rider'
+  6: 'traffic light'
+  7: 'traffic sign'
+  8: 'train'
+  9: 'truck'

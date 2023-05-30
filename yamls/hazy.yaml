@@ -1,0 +1,16 @@
+path: C:/Users/Administrator/Desktop/datasets/SOTs/Detection/foggy road scenes.v1i.yolov5pytorch
+train: test/images
+val: test/images
+test: test/images
+
+#nc: 10
+names:
+  0: 'bike'
+  1: 'bus'
+  2: 'car'
+  3: 'motor'
+  4: 'person'
+  5: 'rider'
+  6: 'traffic light'
+  7: 'traffic sign'
+  9: 'truck'
